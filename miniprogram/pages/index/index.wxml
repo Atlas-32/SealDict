@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+
+<view>
+    <navigator url="../test/test" open-type="navigate" class="uploader-text">
+        <text>Test</text>
+    </navigator>
+</view>
+
+</view>
